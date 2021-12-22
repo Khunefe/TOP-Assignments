@@ -92,6 +92,7 @@ h2 {
     justify-content: center;
     gap: 30px;
     margin-bottom: 150px;
+    flex-wrap: wrap;
 }
 
 .card {
